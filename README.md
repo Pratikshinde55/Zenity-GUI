@@ -46,4 +46,16 @@ Check zenity install or not:
 
      #zenity --version
 
+
 💫magical display commands using Zenity💫
+
+
+           #zenity --info --text="Hello, World!"
+
+           
+![zenity-1](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/4ded64e0-54c5-4f63-a368-66b2b1673cf5)
+
+
+
+
+
