@@ -115,6 +115,15 @@ File Selection Dialog (for selecting files):
  ![zenity-8](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/5f43cf21-a788-4600-8dc1-a1bd1a562054)
 
 
+ Progress Dialog (for displaying progress):
+
+       #zenity --progress --title="Progress" --text="Processing..." --percentage=50
+
+  ![zenity-9](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/15bb824c-818c-41d9-a015-bc0aebf358f2)
+
+
+
+
 
 
 
