@@ -33,4 +33,8 @@ install command for zenity on ubuntu:
 
      #sudo apt-get install zenity
 
+Check zenity install or not:
+
+     #zenity --version
+
 
