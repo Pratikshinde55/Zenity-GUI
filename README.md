@@ -122,6 +122,17 @@ File Selection Dialog (for selecting files):
   ![zenity-9](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/15bb824c-818c-41d9-a015-bc0aebf358f2)
 
 
+ Color Selection Dialog (for selecting a color):
+
+       #zenity --color-selection --title="Select a color:"
+
+![zenity-10](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/a8bd6f6c-0439-4c89-8b2c-c6540df654e2)
+
+
+
+  
+
+
 
 
 
