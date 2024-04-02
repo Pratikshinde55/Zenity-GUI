@@ -76,6 +76,14 @@ Check zenity install or not:
 ![zenity-3](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/f27f8224-59d4-4cfd-b294-5147aeaac29a)
 
 
+⚡Question Dialog (with Yes/No buttons):
+
+
+         #zenity --question --text="Do you want to continue?"
+
+![zenity-4](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/bf5038d1-67ed-4c48-a92e-32b3a33142a1)
+
+
 
 
 
