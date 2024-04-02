@@ -109,6 +109,12 @@ File Selection Dialog (for selecting files):
  ![zenity-7](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/2bc77b74-9c99-4135-a357-d92c582071d4)
 
 
+ Calendar Dialog (for selecting a date):
+
+       #zenity --calendar --title="Select a date:"
+
+
+
 
 
 
