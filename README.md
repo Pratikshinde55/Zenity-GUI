@@ -46,4 +46,4 @@ Check zenity install or not:
 
      #zenity --version
 
-
+💫magical display commands using Zenity💫
