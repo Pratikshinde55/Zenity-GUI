@@ -22,6 +22,15 @@ Here i use amazon cloud ubuntu ami and i used putty for ssh connection.(private-
 
 ![Screenshot 2024-04-02 173909](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/823dbedc-d7ee-41cc-917a-6c8b3ddfd375)
 
+Note: 
+
+X11 server need on local window for allow display ,
+
+If don't have then download  "Xming" link for download-(https://sourceforge.net/projects/xming/) After download install and open onces, it can't open just click on open.
+
+Note:
+
+Also check SSH settings of instance , "/etc/ssh/sshd_config" in this folder allow "X11Forwarding yes". After that just restart sshd by using "systemctl restart sshd" command.
 
 Installation: 
 
