@@ -142,6 +142,13 @@ Question Dialog with Custom Buttons:
 ![zenity-12](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/4042897e-87ed-4fd9-88d2-a8e46b7a9b0f)
 
 
+♾️enity command that displays a "fortune" (random quote) in a dialog window:
+
+ here need 1st install fortune-mod on instance. 
+
+       #sudo apt install fortune-mod
+
+
 
 
 
