@@ -147,6 +147,11 @@ Question Dialog with Custom Buttons:
  here need 1st install fortune-mod on instance. 
 
        #sudo apt install fortune-mod
+       
+![zenity-13](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/cf3a755c-5171-4e21-bb84-39131e34a34f)
+
+![zenity-14](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/4d722b86-e1b8-49b7-8321-e81e4801f15a)
+
 
 
 
