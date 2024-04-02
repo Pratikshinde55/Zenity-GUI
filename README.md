@@ -93,6 +93,15 @@ Input Dialog (for user input):
 ![zenity-5](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/a6f2d6a9-eb55-4867-9b4e-4a9a1fd8fd3e)
 
 
+Password Dialog (for password input):
+
+
+         #zenity --password --text="Enter your password:"
+
+![zenity-6](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/bb67c1e4-1835-46ce-8fed-5ea65f425a26)
+
+
+
 
 
 
