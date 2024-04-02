@@ -152,6 +152,12 @@ Question Dialog with Custom Buttons:
 
 ![zenity-14](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/4d722b86-e1b8-49b7-8321-e81e4801f15a)
 
+every time new come up
+![zenity-15](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/84d34e86-c81e-42a0-ae8b-d2d6977289ae)
+
+
+
+
 
 
 
