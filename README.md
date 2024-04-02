@@ -85,6 +85,14 @@ Check zenity install or not:
 ![zenity-4](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/bf5038d1-67ed-4c48-a92e-32b3a33142a1)
 
 
+Input Dialog (for user input):
+
+
+         #zenity --entry --text="Enter your name:"
+
+![zenity-5](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/a6f2d6a9-eb55-4867-9b4e-4a9a1fd8fd3e)
+
+
 
 
 
