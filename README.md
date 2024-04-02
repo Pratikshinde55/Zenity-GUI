@@ -84,7 +84,7 @@ Check zenity install or not:
 ![zenity-4](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/bf5038d1-67ed-4c48-a92e-32b3a33142a1)
 
 
-Input Dialog (for user input):
+⚡Input Dialog (for user input):
 
 
          #zenity --entry --text="Enter your name:"
@@ -92,7 +92,7 @@ Input Dialog (for user input):
 ![zenity-5](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/a6f2d6a9-eb55-4867-9b4e-4a9a1fd8fd3e)
 
 
-Password Dialog (for password input):
+⚡Password Dialog (for password input):
 
 
          #zenity --password --text="Enter your password:"
@@ -100,48 +100,49 @@ Password Dialog (for password input):
 ![zenity-6](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/bb67c1e4-1835-46ce-8fed-5ea65f425a26)
 
 
-File Selection Dialog (for selecting files):
+⚡File Selection Dialog (for selecting files):
 
        #zenity --file-selection --title="Select a file:"
 
  ![zenity-7](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/2bc77b74-9c99-4135-a357-d92c582071d4)
 
 
- Calendar Dialog (for selecting a date):
+⚡Calendar Dialog (for selecting a date):
 
        #zenity --calendar --title="Select a date:"
 
  ![zenity-8](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/5f43cf21-a788-4600-8dc1-a1bd1a562054)
 
 
- Progress Dialog (for displaying progress):
+⚡Progress Dialog (for displaying progress):
 
        #zenity --progress --title="Progress" --text="Processing..." --percentage=50
 
   ![zenity-9](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/15bb824c-818c-41d9-a015-bc0aebf358f2)
 
 
- Color Selection Dialog (for selecting a color):
+⚡Color Selection Dialog (for selecting a color):
 
        #zenity --color-selection --title="Select a color:"
 
 ![zenity-10](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/a8bd6f6c-0439-4c89-8b2c-c6540df654e2)
 
-Question Dialog with Custom Buttons:
+
+⚡Question Dialog with Custom Buttons:
 
        #zenity --question --text="Do you want to save your changes?" --ok-label="Yes" --cancel-label="No"
 
  ![zenity-11](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/93ccdbf2-025e-4016-90cc-b8d99a31c8e6)
 
 
- Progress Dialog with Auto-Close:
+⚡Progress Dialog with Auto-Close:
 
        #(sleep 20; echo "100") | zenity --progress --auto-close --text="Processing..."
 
 ![zenity-12](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/4042897e-87ed-4fd9-88d2-a8e46b7a9b0f)
 
 
-♾️enity command that displays a "fortune" (random quote) in a dialog window:
+⚡♾️enity command that displays a "fortune" (random quote) in a dialog window:
 
  here need 1st install fortune-mod on instance. 
 
