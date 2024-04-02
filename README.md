@@ -67,6 +67,14 @@ Check zenity install or not:
 
 
 
+          #zenity --error --text="An error occurred."
+
+
+![zenity-3](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/f27f8224-59d4-4cfd-b294-5147aeaac29a)
+
+
+
+
 
 
 
