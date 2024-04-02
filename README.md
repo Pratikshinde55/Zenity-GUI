@@ -101,6 +101,16 @@ Password Dialog (for password input):
 ![zenity-6](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/bb67c1e4-1835-46ce-8fed-5ea65f425a26)
 
 
+File Selection Dialog (for selecting files):
+
+
+       #zenity --file-selection --title="Select a file:"
+
+ ![zenity-7](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/2bc77b74-9c99-4135-a357-d92c582071d4)
+
+
+
+
 
 
 
