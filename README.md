@@ -12,9 +12,13 @@ It simplifies interaction with users and adds a visual element to terminal-based
 
 Here i use amazon cloud ubuntu ami and i used putty for ssh connection.(private-key amazon -->> .ppk )
 
-On putty:
+💥On putty:
 
-SSH -->>  Auth -->>  X11  -->> Enable X11 forwarding 
+1. In Session -->> Hostname: ubuntu@public_ip_of_instance  -->> select ssh
+
+2. SSH -->>  Auth -->> Credentials -->> private key file for Auth (same key of used for instance)
+ 
+3. SSH -->>  Auth -->>  X11  -->> Enable X11 forwarding 
 
 ![Screenshot 2024-04-02 173909](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/823dbedc-d7ee-41cc-917a-6c8b3ddfd375)
 
