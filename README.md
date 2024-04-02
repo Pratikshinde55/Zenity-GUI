@@ -59,12 +59,15 @@ Check zenity install or not:
 ![zenity-1](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/4ded64e0-54c5-4f63-a368-66b2b1673cf5)
 
 
+⚡Warning Dialog:
+
                              
            #zenity --warning --text="This is a warning message."
 
 
 ![zenity-2](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/7f56b753-83fa-49d0-9487-c0aa6d7a6daa)
 
+⚡Error Dialog:
 
 
           #zenity --error --text="An error occurred."
