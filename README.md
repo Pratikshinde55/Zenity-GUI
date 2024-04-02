@@ -22,3 +22,15 @@ Here i use amazon cloud ubuntu ami and i used putty for ssh connection.(private-
 
 ![Screenshot 2024-04-02 173909](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/823dbedc-d7ee-41cc-917a-6c8b3ddfd375)
 
+
+Installation: 
+
+1st need to update use follow command:
+
+     #sudo apt-get update
+
+install command for zenity on ubuntu:
+
+     #sudo apt-get install zenity
+
+
