@@ -128,9 +128,18 @@ File Selection Dialog (for selecting files):
 
 ![zenity-10](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/a8bd6f6c-0439-4c89-8b2c-c6540df654e2)
 
+Question Dialog with Custom Buttons:
+
+       #zenity --question --text="Do you want to save your changes?" --ok-label="Yes" --cancel-label="No"
+
+ ![zenity-11](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/93ccdbf2-025e-4016-90cc-b8d99a31c8e6)
 
 
-  
+ Progress Dialog with Auto-Close:
+
+       #(sleep 20; echo "100") | zenity --progress --auto-close --text="Processing..."
+
+![zenity-12](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/4042897e-87ed-4fd9-88d2-a8e46b7a9b0f)
 
 
 
