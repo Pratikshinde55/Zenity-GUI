@@ -1,5 +1,8 @@
 # Zenity
 
+![Configuration of Docker and webser container using Ansible (3)](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/3aa299d6-ed4d-40e2-980c-d03259d06768)
+
+
 🌟 Zenity: 
 
 Zenity is a powerful command-line utility that allows users to create graphical user interfaces (GUIs) for shell scripts and terminal commands. In this blog post, we'll delve into the various options 
