@@ -27,7 +27,8 @@ Here i use amazon cloud ubuntu ami and i used putty for ssh connection.(private-
 
 X11 server need on local window for allow display ,
 
-If don't have then download  "Xming" link for download-(https://sourceforge.net/projects/xming/) After download install and open onces, it can't open just click on open.
+If don't have then download  "Xming" link for download- [Xming-Download-link](https://sourceforge.net/projects/xming/)  After download install and open onces, it 
+can't open just click on open.
 
 - Note:
 
