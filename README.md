@@ -9,7 +9,7 @@ and functionalities offered by Zenity, accompanied by output screenshots for bet
 **Zenity is a handy tool for enhancing the user experience of shell scripts by providing graphical dialogs such as message boxes, input forms, file selection dialogs, progress bars, and more. 
 It simplifies interaction with users and adds a visual element to terminal-based applications.**
 
-## How to install and setup:
+## How to Install and setup of zenity:
 
 Here i use amazon cloud ubuntu ami and i used putty for ssh connection.(private-key amazon -->> .ppk )
 
@@ -49,7 +49,7 @@ Check zenity install or not:
      zenity --version
 
 
-## magical display commands using Zenity
+## Magical display commands using Zenity
 
 ### Information Dialog:
     
@@ -134,22 +134,6 @@ here need 1st install fortune-mod on instance.
 
 Every time new come up:
 ![zenity-15](https://github.com/Pratikshinde55/Zenity-GUI/assets/145910708/84d34e86-c81e-42a0-ae8b-d2d6977289ae)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
