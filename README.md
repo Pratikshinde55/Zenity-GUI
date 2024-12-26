@@ -11,7 +11,7 @@ It simplifies interaction with users and adds a visual element to terminal-based
 
 ## How to Install and setup of zenity:
 
-Here i use amazon cloud ubuntu ami and i used putty for ssh connection.(private-key amazon -->> .ppk )
+Here i use Amazon Cloud ubuntu AMI & I used putty for ssh connection.(private-key amazon -->> .ppk )
 
 - On putty:
 
